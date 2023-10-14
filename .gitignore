@@ -1,0 +1,225 @@
+# macOS system files
+.DS_Store
+
+# Windows thumbnail files
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Visual Studio Code settings
+.vscode/
+
+# Sublime Text project files
+*.sublime-project
+*.sublime-workspace
+
+# IntelliJ IDEA settings
+.idea/
+
+# Eclipse settings
+.settings/
+
+# Directory for JetBrains IDEs
+.idea/
+
+# User-specific .swp and .swo files
+*.swp
+*.swo
+
+# User-specific .DS_Store files
+._*
+
+# User-specific Thumbs.db files
+ehthumbs_vista.db
+
+# User-specific .gitignore files
+.gitignore_global
+
+# Node.js
+node_modules/
+
+# npm
+npm-debug.log
+
+# Yarn
+yarn-error.log
+
+# Ruby
+*.gem
+*.rbc
+/.config
+/config
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtualenv
+venv/
+env/
+ENV/
+
+# macOS metadata and resource forks
+.AppleDouble
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Node development
+npm-debug.log
+logs/
+*.log
+
+# Gradle
+.gradle/
+
+# Maven
+target/
+.idea_modules/
+
+# sbt
+target/
+.project
+.worksheet
+
+# Scala
+lib_managed/
+target/
+dist/
+/boot/
+
+# Play Framework
+/target/
+/logs/
+
+# Rust
+target/
+
+# C/C++
+*.swp
+*.swo
+*.out
+
+# Dart
+build/
+.packages
+.pub/
+
+# Elixir
+/_build/
+/deps/
+
+# Erlang
+/ebin/
+/LOGS
+
+# Lua
+/bin/
+
+# Common Lisp
+/slack/
+
+# LaTeX
+*.dvi
+*.pdf
+
+# Config files
+*.conf
+
+# Dependency directories
+.bower/
+.jspm/
+composer.json
+composer.lock
+vendor/
+
+# Gradle Wrapper
+gradle-wrapper.properties
+gradle-wrapper.jar
+
+# Java
+*.class
+
+# Android
+bin/
+gen/
+.gradle/
+/local.properties
+/app/build/
+/captures/
+
+# Compiled Java
+*.class
+
+# Compiled Python
+*.pyc
+
+# Compiled Ruby
+*.rbc
+
+# Compiled Lua
+*.luac
+
+# Generated files
+.htaccess
+
+# Compressed .zip files
+*.zip
+
+# Compiled binaries
+*.o
+*.ko
+*.a
+*.la
+*.lo
+*.ps
+*.loT
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS X Finder files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnail cache files
+._*
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# Editor-specific temporary/backup files
+*~
+
