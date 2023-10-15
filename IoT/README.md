@@ -7,6 +7,8 @@ On this coursework, IoT students are mainly responsible for：
 - Using **YOLO** technology for object recognition ;
 - Using  **mysql-connector** module connect the database of E-commerce and writing SQL to upload object detection information to their database.
 
+<img src="https://typora-1313035735.cos.ap-nanjing.myqcloud.com/img/2023-10-15-102412.png" alt="Flow chart" style="zoom:67%;" />
+
 
 
 #### Install the necessary dependencies
