@@ -22,7 +22,7 @@ Before you can run the Python script, you must install the necessary modules :
 Quickly installing :
 
 ```shell
-pip3 install requirements.txt
+pip3 install -r requirements.txt
 ```
 
 
